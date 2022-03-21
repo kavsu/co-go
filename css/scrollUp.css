@@ -1,0 +1,19 @@
+#myBtn {
+    display: none;
+    position: fixed;
+    bottom: 100px;
+    right: 10px;
+    z-index: 99;
+    font-size: 18px;
+    border: none;
+    outline: none;
+    background-color: rgb(3, 11, 78);
+    color: white;
+    cursor: pointer;
+    padding: 15px;
+    font-family:"Rajdhani", sans-serif;
+    border-radius: 50%;
+}
+#myBtn:hover {
+    background-color: rgb(0, 0, 0); /* Add a dark-grey background on hover */
+}
